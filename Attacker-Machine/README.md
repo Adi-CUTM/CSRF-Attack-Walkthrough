@@ -43,7 +43,7 @@ Below are the step-by-step screenshots of configuring DVWA on the attacker machi
 ![Go to DVWA Security and changed it to low](DVWA_security_Low.png)
 
 11.**Password Changed (Default → Custom)**  
-_User: admin | Password: password → Custom Password_  
+_User: admin | Password: password → Custom Password_ | Copy the url from the address bar
 
 ![Changed the Default Password (User:admin , Password:password) to custom and copy the changing url from above](Password_Changed_on_Attack_Machine.png)
 
