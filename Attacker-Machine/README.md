@@ -1,4 +1,4 @@
-1.![Overview of attacker Machine](Attack_Machine.png)
+![Overview of attacker Machine](Attack_Machine.png)
 
 2.![Checking Apache2 status](Appache2_Status.png)
 
