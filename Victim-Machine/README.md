@@ -1,4 +1,4 @@
-![Overview Of Victim Machine](Victim%20Machine.png)
+1.![Overview Of Victim Machine](Victim%20Machine.png)
 
 2.![Checking Apache2 status](Apache2%20on%20victim.png)
 
