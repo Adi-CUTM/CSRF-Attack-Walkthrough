@@ -1,4 +1,9 @@
-1.![Overview of attacker Machine](Attack_Machine.png)
+## Attacker Machine Setup (Kali Linux)
+
+Below are the step-by-step screenshots of configuring DVWA on the attacker machine:
+
+1. **Overview of Attacker Machine** 
+![Overview of attacker Machine](Attack_Machine.png)
 
 2.![Checking Apache2 status](Appache2_Status.png)
 
